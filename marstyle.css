@@ -1,0 +1,274 @@
+body
+{
+    width:80%;
+    margin:10px auto;
+    background-color:#EFEEEC;
+}
+
+img{
+    border-top-left-radius:10px;
+    float:clear;
+}
+
+nav{
+    width: 100%;
+    height:20px;
+    background-color: #666560;
+    
+    border-radius: 2px;
+    margin-top: 15px;
+
+    padding-top:10px;
+    padding-bottom:10px;
+}
+#Chead{
+    color:red;
+}
+ul,li,a
+{
+    text-decoration: none;
+    display:inline;
+    color:white;
+    text-align:center;
+    padding-bottom:10px;
+    margin-right: 10px;
+    
+
+}
+
+
+section{
+    width:70%;
+    float:left;
+    
+}
+
+i{
+    color:lightgrey;
+}
+#div-1
+{
+    margin-top: 15px;
+    border-radius: 2px;
+    background-color:white;
+    padding:17px;
+    
+}
+
+#div-2
+{
+    border-radius: 2px;
+    margin-top: 15px;
+    background-color:white;
+    padding:17px;
+    
+    
+}
+
+
+aside
+{
+    width:29%;
+    float:left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+#top
+{
+    border-radius: 2px;
+    background-color: white;
+    padding:13px;
+    
+}
+
+#middle
+{
+    background-color: white;
+    padding:13px;
+    margin-top: 10px;
+    border-radius: 2px;
+    
+}
+
+#bottom
+{
+    border-radius: 2px;
+  background-color: white;
+    padding:13px;
+    margin-top: 10px;
+  
+}
+
+
+
+footer{
+
+    
+    position: relative;
+    top:10px;
+
+    width: 100%;
+    height:40px;
+    background-color: #666560;
+    
+    border-radius: 2px;
+    clear:both;
+
+}
+
+#copy
+{
+    padding:10px;
+}
+   
+
+span{
+    color:orangered
+}
+
+
+@media screen and (min-width:200px) and (max-width:800px)
+{
+   
+    body
+    {
+        width:90%;
+        margin:10px auto;
+        background-color:#EFEEEC;
+    }
+    
+    img{
+        border-top-left-radius:10px;
+        width:100%
+    }
+    
+    nav{
+        width: 100%;
+        height:150px;
+        background-color: #666560;
+        
+        border-radius: 2px;
+        margin-top: 15px;
+        text-align: center;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    #Chead{
+        color:red;
+    }
+
+
+    ul,li,a
+    {
+        text-decoration: none;
+        display: block;
+        color:white;
+        text-align:center;
+        padding-bottom:10px;
+        margin-right: 10px;
+        
+    
+    }
+    
+    section{
+        width:100%;
+        float:left;
+        
+    }
+    
+    i{
+        color:lightgrey;
+    }
+    #div-1
+    {
+        margin-top: 15px;
+        border-radius: 2px;
+        background-color:white;
+        padding:17px;
+        
+    }
+    
+    #div-2
+    {
+        border-radius: 2px;
+        margin-top: 15px;
+        background-color:white;
+        padding:17px;
+        
+        
+    }
+    
+    
+    aside
+    {
+        width:100%;
+        float:left;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    
+    
+    #top
+    {
+        border-radius: 2px;
+        background-color: white;
+        padding:13px;
+        
+    }
+    
+    #middle
+    {
+        background-color: white;
+        padding:13px;
+        margin-top: 10px;
+        border-radius: 2px;
+        
+    }
+    
+    #bottom
+    {
+        border-radius: 2px;
+      background-color: white;
+        padding:13px;
+        margin-top: 10px;
+      
+    }
+    
+    
+    
+    footer{
+    
+        
+        position: relative;
+        top:10px;
+    
+        width: 100%;
+        height:40px;
+        background-color: #666560;
+        
+        border-radius: 2px;
+        clear:both;
+    
+    }
+    
+    #copy
+    {
+        padding:10px;
+    }
+       
+    
+    span{
+        color:orangered
+    }
+    
+
+
+
+}
+
+
+
+
+
